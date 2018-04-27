@@ -10,6 +10,12 @@ net_profits,净利润(万元)
 
 
 
+arturndays 应收账款周转天数
+
+currentasset_days 资产周转天数
+
+
+
 close 每日收盘价
 
 open 每日开盘价
