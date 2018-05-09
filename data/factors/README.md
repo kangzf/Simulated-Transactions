@@ -45,3 +45,4 @@
 | MV_float   | Float market value               |
 | ARTurnDays | Account Receivable Turnover Days |
 | AssetTurn  | asset turnover                   |
+
